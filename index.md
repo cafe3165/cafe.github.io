@@ -38,5 +38,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-![avatar](https://desk-fd.zol-img.com.cn/t_s960x600c5/g2/M00/0B/06/ChMlWl6hDbKIBe0eABje8Bd5EzkAAOi1wMvDmgAGN8I670.jpg)
-
