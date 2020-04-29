@@ -19,7 +19,7 @@
 ![bed.png](https://i.loli.net/2020/04/29/hIgtsvYeBcdzi59.png)
 
 #### 3.balcony
-![bal.png](https://i.loli.net/2020/04/29/frTnXJ1Vpw3oIjC.png
+![bal.png](https://i.loli.net/2020/04/29/frTnXJ1Vpw3oIjC.png)
 
 
 
