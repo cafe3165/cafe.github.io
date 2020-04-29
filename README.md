@@ -12,7 +12,7 @@
 
 
 #### 1.Sitting Room
-   
+
 ![sr.png](https://i.loli.net/2020/04/29/tNrCdu5FTSZQ81k.png)
 
 #### 2.Bedroom
@@ -34,6 +34,11 @@
 ### 3.1 Base Set
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Base%20Set.txt
 
-### 3.2 Paragphrase Set
+### 3.2 Paraphrase Set
 
-### 3.3 Scenarios Set
+ [https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Paragphrase%20Set.txt](https://github.com/cafe3165/cafe.github.io/blob/master/data set/Paragphrase Set.txt) 
+
+### 3.3 Scenarios Set 
+
+ [https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Scenarios%20Set.txt](https://github.com/cafe3165/cafe.github.io/blob/master/data set/Scenarios Set.txt) 
+
