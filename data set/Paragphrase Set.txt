@@ -1,4 +1,3 @@
-
 1.	what is the status of the air conditioner ?
 2.	is the air conditioner on ?
 3.	is the air conditioner off ?
@@ -338,7 +337,6 @@
 337.	set the pm2.5 of bedchamber to x .
 338.	set the humidity of balcony to x .
 339.	set the brightness of balcony to x .
-
 340.	turn air conditioner in the sitting room on.
 341.	turn air conditioner in the sitting room off.
 342.	open air conditioner in the sitting room .
@@ -416,11 +414,6 @@
 414.	set pm2.5 of bedroom to x .
 415.	set humidity of balcony to x .
 416.	set brightness of balcony to x .
-
-
-
-
-
 417.	turn the air conditioner in sitting room on.
 418.	turn the air conditioner in sitting room off.
 419.	open the air conditioner in sitting room .
@@ -498,12 +491,6 @@
 491.	set the pm2.5 of bedroom to x .
 492.	set the humidity of veranda to x .
 493.	set the brightness of veranda to x .
-
-
-
-
-
-
 494.	turn on air conditioner in sitting room .
 495.	turn off air conditioner in sitting room .
 496.	open air conditioner in sitting room .
@@ -781,18 +768,6 @@
 768.	if the temperature in the living room is higher than 20 ,set the temperature of the air conditioner in the living room to 22 .
 769.	if the temperature in the living room is more than 20 ,set the temperature of the air conditioner in the living room to 22 .
 770.	if the temperature in the living room is between 20  and 24, set the temperature of the air conditioner in the living room to 22 .
-
-
-
-
-
-
-
-
-
-
-
-
 771.	if the brightness in the sitting room is below 25, turn off smart light in the sitting room .
 772.	if the brightness in the sitting room is less than 25, turn down smart light in the sitting room .
 773.	if the brightness in the sitting room is lower than 25, turn down smart light in the sitting room .
@@ -898,7 +873,6 @@
 873.	if the lightness in the bedchamber is higher than 23, open the smart light in the bedroom .
 874.	if the lightness in the bedchamber is more than 23, open the smart light in the bedroom .
 875.	if the lightness in the bedchamber is between 23 and 30, open the smart light in the bedroom .
-
 876.	if the pm2.5 in the bedroom is below 35, turn on the pm2.5 detector in the bedroom .
 877.	if the pm2.5 in the bedroom is less than 35, turn on the pm2.5 monitor in the bedroom .
 878.	if the pm2.5 in the bedroom is lower than 35, turn on the pm2.5 detector in the bedroom .
