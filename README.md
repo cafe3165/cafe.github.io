@@ -32,6 +32,7 @@
 # 3. Experimental Results
 
 ### 3.1 Base Set
+https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Base%20Set.txt
 
 ### 3.2 Paragphrase Set
 
