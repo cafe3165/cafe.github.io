@@ -1,9 +1,9 @@
 
 # 1.Usage Scenario
-###  Overview
+###  Overview 
 ![scen.png](https://i.loli.net/2020/04/29/szTxySMoWqefDrv.png)
 
-###  Knowledge Graph
+###  Smart Home Knowledge Graph
 ![all.png](https://i.loli.net/2020/04/29/rigPo8wUJMSsxdb.png)
 
 >Explanation of Nouns
@@ -11,14 +11,14 @@
 
 
 
-#### 1.Sitting Room
+#### 1. Sitting Room Knowledge Graph
 
 ![sr.png](https://i.loli.net/2020/04/29/tNrCdu5FTSZQ81k.png)
 
-#### 2.Bedroom
+#### 2. Bedroom Knowledge Graph
 ![bed.png](https://i.loli.net/2020/04/29/hIgtsvYeBcdzi59.png)
 
-#### 3.balcony
+#### 3. Balcony Knowledge Graph
 ![bal.png](https://i.loli.net/2020/04/29/frTnXJ1Vpw3oIjC.png)
 
 
