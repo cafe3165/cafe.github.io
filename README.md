@@ -4,22 +4,22 @@
 ![scen.png](https://i.loli.net/2020/04/29/szTxySMoWqefDrv.png)
 
 ###  Smart Home Knowledge Graph
-![all.png](https://i.loli.net/2020/04/29/rigPo8wUJMSsxdb.png)
+![all.png](https://i.loli.net/2020/05/07/5PlZzXSGVELjdua.png)
 
 >Explanation of Nouns
->![ex.png](https://i.loli.net/2020/04/29/KRJqZ6EwzUdI4Mx.png)
+>![text.png](https://i.loli.net/2020/05/07/Jxv7FXpgwd8qjTA.png)
 
 
 
 #### 1. Sitting Room Knowledge Graph
 
-![sr.png](https://i.loli.net/2020/04/29/tNrCdu5FTSZQ81k.png)
+![sit.png](https://i.loli.net/2020/05/07/lr7VbIDZThOeRws.png)
 
 #### 2. Bedroom Knowledge Graph
-![bed.png](https://i.loli.net/2020/04/29/hIgtsvYeBcdzi59.png)
+![bed.png](https://i.loli.net/2020/05/07/BXjGu39KxmJbnQI.png)
 
 #### 3. Balcony Knowledge Graph
-![bal.png](https://i.loli.net/2020/04/29/frTnXJ1Vpw3oIjC.png)
+![bal.png](https://i.loli.net/2020/05/07/K9C6uwhinEoRYeq.png)
 
 
 
