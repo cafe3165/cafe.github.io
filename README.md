@@ -25,20 +25,34 @@
 
 # 2. Matching Process Example
 
-
 ![use.png](https://i.loli.net/2020/04/29/8b6GAlKjy1Jxfwe.png)
 
+#  3. Concept Instances in the Knowledge Graph for Smart Home 
 
-# 3. Experimental Results
 
-### 3.1 Base Set
+
+![Concept Instances.png](https://i.loli.net/2020/05/12/ZYTuGClJ9hnOpoU.png)
+
+
+
+
+
+
+
+
+
+
+
+# 4. Experimental Results
+
+### 4.1 Base Set
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Base%20Set.txt
 
-### 3.2 Paraphrase Set
+### 4.2 Paraphrase Set
 
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Paragphrase%20Set.txt
 
-### 3.3 Scenarios Set 
+### 4.3 Scenarios Set 
 
 https://github.com/cafe3165/cafe.github.io/blob/master/data%20set/Scenarios%20Set.txt
 
